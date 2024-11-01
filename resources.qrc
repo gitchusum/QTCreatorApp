@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rs"/>
+    <qresource prefix="/">
+        <file>../../../../../istockphoto-108203887-612x612.jpg</file>
+    </qresource>
+</RCC>
